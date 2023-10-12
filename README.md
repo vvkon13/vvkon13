@@ -9,7 +9,7 @@
 
 
 ### Контакты:
-:telephone: :pager: :fax: :computer:   (telegramm: @vvkon13)
+:telephone: :pager: :fax: :computer:   (telegram: @vvkon13)
 
 
 <!--
