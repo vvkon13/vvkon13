@@ -8,7 +8,8 @@ My name is Vasily. I am a Frontend Developer!
 [<img src="https://img.shields.io/badge/CODEWARS-8B0000?style=for-the-badge&logo=codewars&logoColor=000000"/>](https://www.codewars.com/users/Vassa13)  
 
 ### :factory: jobs :smiley:(steve works):
-<img src="http://www.takes.org/logo.png" height="64px"/>
+<img src="http://www.takes.org/logo.png" height="64px"/> <img src="https://down.imgspng.com/download/0720/book_PNG51114.png" height="64px"/>
+
 
 ### Сontacts:
 :telephone: :pager: :fax: :computer:   (telegram: @vvkon13)
