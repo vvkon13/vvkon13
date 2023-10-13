@@ -8,9 +8,7 @@ My name is Vasily. I am a Frontend Developer!
 [<img src="https://img.shields.io/badge/CODEWARS-8B0000?style=for-the-badge&logo=codewars&logoColor=000000"/>](https://www.codewars.com/users/Vassa13)  
 
 ### :factory: references to jobs :smiley:(works):
-[<img src="http://www.takes.org/logo.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-frontend/tree/main) [<img src="https://www.freepngimg.com/thumb/video_camera/86741-projector-movie-brand-accessory-camera-video.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-api) <img src="https://down.imgspng.com/download/0720/book_PNG51114.png" height="64px"/>
-
-
+[<img src="http://www.takes.org/logo.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-frontend/tree/main) [<img src="https://www.freepngimg.com/thumb/video_camera/86741-projector-movie-brand-accessory-camera-video.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-api) [<img src="https://wall-style.com.ua/home/products_images/shutterstock_319296680.jpg" height="64px"/>](https://github.com/vvkon13/react-mesto-api-full-gha) [<img src="https://papik.pro/izobr/uploads/posts/2023-02/1676957661_papik-pro-p-poezd-sharzh-25.jpg" height="64px"/>](https://github.com/vvkon13/russian-travel) [<img src="https://down.imgspng.com/download/0720/book_PNG51114.png" height="64px"/>](https://github.com/vvkon13/how-to-learn)
 
 ### Сontacts:
 :telephone: :pager: :fax: :computer:   (telegram: @vvkon13)
