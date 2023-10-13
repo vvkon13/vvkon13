@@ -7,8 +7,9 @@ My name is Vasily. I am a Frontend Developer!
 ### :video_game: Hobbies:
 [<img src="https://img.shields.io/badge/CODEWARS-8B0000?style=for-the-badge&logo=codewars&logoColor=000000"/>](https://www.codewars.com/users/Vassa13)  
 
-### :factory: jobs :smiley:(steve works):
-<img src="http://www.takes.org/logo.png" height="64px"/> <img src="https://down.imgspng.com/download/0720/book_PNG51114.png" height="64px"/>
+### :factory: references to jobs :smiley:(works):
+[<img src="http://www.takes.org/logo.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-frontend/tree/main) [<img src="https://www.freepngimg.com/thumb/video_camera/86741-projector-movie-brand-accessory-camera-video.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-api) <img src="https://down.imgspng.com/download/0720/book_PNG51114.png" height="64px"/>
+
 
 
 ### Сontacts:
