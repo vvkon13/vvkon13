@@ -1,5 +1,5 @@
 ## :bowtie:👋Hey, everybody! 
-My name is Vasily. I am a Fullstack Web Developer! 
+My name is Vasiliy. I am a Fullstack Web Developer! 
 ### :wrench: :hammer: :floppy_disk: Stack:   
 
 <img src="https://img.shields.io/badge/HTML-2F4F4F?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS-2F4F4F?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/SCSS-2F4F4F?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/tailwind%20css-2F4F4F?style=for-the-badge&logo=tailwindcss"> <img src="https://img.shields.io/badge/JavaScript-2F4F4F?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/typescript-2F4F4F?style=for-the-badge&logo=typescript"> 
