@@ -13,6 +13,8 @@ My name is Vasily. I am a Fullstack Web Developer!
 
 ### 🧑‍🤝‍🧑 Teamwork:
 [<img src="https://i.pinimg.com/736x/2f/0d/bc/2f0dbc75f96bda0fd1c91ba9a63385ed.jpg" height="64px"/>](https://github.com/vvkon13/better-together)
+[<img src="https://avatars.githubusercontent.com/u/155900142?s=200&v=4" height="64px"/>](https://github.com/Pet-projects-CodePET/Frontend/tree/develop)
+
 
 #### :video_game: Hobbies:
 <img src="https://img.shields.io/badge/codewars-b22222?style=flat&logo=codewars&logoColor=000000"/> <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode"/> <img src="https://img.shields.io/badge/Chess.com-4f7942?style=flat&logo=''&logoColor=000000"/> <img src="https://img.shields.io/badge/FIFA-101090?style=flat&logo=FIFA"/>
