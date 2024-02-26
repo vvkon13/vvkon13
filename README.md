@@ -11,9 +11,10 @@ My name is Vasiliy. I am a Fullstack Web Developer!
 ### :factory: References to works 
 [<img src="http://www.takes.org/logo.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-frontend/tree/main) [<img src="https://www.freepngimg.com/thumb/video_camera/86741-projector-movie-brand-accessory-camera-video.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-api) [<img src="https://papik.pro/izobr/uploads/posts/2023-02/1676957661_papik-pro-p-poezd-sharzh-25.jpg" height="64px"/>](https://github.com/vvkon13/russian-travel) [<img src="https://down.imgspng.com/download/0720/book_PNG51114.png" height="64px"/>](https://github.com/vvkon13/how-to-learn)
 
-### 🧑‍🤝‍🧑 Teamwork:
+### 🧑‍🤝‍🧑 References to teamwork:
 [<img src="https://i.pinimg.com/736x/2f/0d/bc/2f0dbc75f96bda0fd1c91ba9a63385ed.jpg" height="64px"/>](https://github.com/vvkon13/better-together)
 [<img src="https://avatars.githubusercontent.com/u/155900142?s=200&v=4" height="64px"/>](https://github.com/Pet-projects-CodePET/Frontend/tree/develop)
+[<img src="https://tp.dev.iamrobot.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FowlScreenOne.22ed684d.png&w=1920&q=100" height="64px"/>](https://github.com/vvkon13/tourist-passport/tree/main)
 
 
 #### :video_game: Hobbies:
