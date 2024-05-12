@@ -73,10 +73,29 @@
 </table>
 
 ### 🧑‍🤝‍🧑 References to teamwork:
-[<img src="https://i.pinimg.com/736x/2f/0d/bc/2f0dbc75f96bda0fd1c91ba9a63385ed.jpg" height="64px"/>](https://github.com/vvkon13/better-together)
-[<img src="https://avatars.githubusercontent.com/u/155900142?s=200&v=4" height="64px"/>](https://github.com/Pet-projects-CodePET/Frontend/tree/develop)
-[<img src="https://photo.tvigle.ru/res/tvigle/video/2018/04/27/27954e48-75eb-487d-a256-c76bb5207ec4.png" height="64px"/>](https://github.com/vvkon13/tourist-passport/tree/main)
+<table align="center">
+  <tr>
+    <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/tourist-passport">1.Better together</a></td>
+    <td valign="middle" align="center" width="30%"><a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop">2.CodePET</a></td>
+    <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/tourist-passport">3.Tourist passport</a></td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/tourist-passport"><img src="https://github.com/vvkon13/images/blob/main/bettertogether.jpg" height="100"/></a></td>
+    <td valign="middle" align="center" width="30%"><a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop"><img src="https://github.com/vvkon13/images/blob/main/codepet.png" height="100"/></a></td>
+    <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/tourist-passport"><img src="https://photo.tvigle.ru/res/tvigle/video/2018/04/27/27954e48-75eb-487d-a256-c76bb5207ec4.png" height="100"/></a></td>
+  </tr>
 
+  <tr>
+    <td valign="middle" align="center" width="30%"><a href="https://2260993-dk30711.twc1.net/">Website</a></td>
+    <td valign="middle" align="center" width="30%"></td>
+    <td valign="middle" align="center" width="30%"><a href="https://tpdeti.ru/">Website</a></td>
+  </tr>
+  <tr>
+   <td valign="top" align="left" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SCSS" alt="SCSS" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="25" height="25"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
+<td valign="top" align="left" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="25" height="25"/>&nbsp;<img src="https://github.com/vvkon13/images/blob/main/reacthookform-color.svg" title="ReactHookForm" alt="ReactHookForm" width="25" height="25" color="#FF4154"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SCSS" alt="SCSS" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="25" height="25"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
+    <td valign="top" align="left" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="25" height="25"/>&nbsp;<img src="https://github.com/vvkon13/images/blob/main/bear.jpg" title="zustand" alt="zustand" height="25" color="#FF4154"/>&nbsp;<img src="https://github.com/vvkon13/images/blob/main/reactquery-color.svg" title="TanStack Query" alt="TanStack Query" width="25" height="25" color="#FF4154"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="25" height="25" color="#FF4154"/>&nbsp;<img src="https://github.com/vvkon13/images/blob/main/shadcnui-color.svg" title="Shadcnui" alt="Shadcnui" width="25" height="25" color="#FF4154"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
+  </tr>  
+</table>
 
 #### :video_game: Hobbies:
 <img src="https://img.shields.io/badge/codewars-b22222?style=flat&logo=codewars&logoColor=000000"/> <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode"/> <img src="https://img.shields.io/badge/Chess.com-4f7942?style=flat&logo=''&logoColor=000000"/> <img src="https://img.shields.io/badge/FIFA-101090?style=flat&logo=FIFA"/>
@@ -100,5 +119,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="25" height="25"/>&nbsp;
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="Storybook" alt="Storybook" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="25" height="25"/>&nbsp;
+<img src="https://github.com/vvkon13/images/blob/main/reactquery-color.svg" title="TanStack Query" alt="TanStack Query" width="25" height="25" color="#FF4154"/>&nbsp;
+<img src="https://github.com/vvkon13/images/blob/main/bear.jpg" title="zustand" alt="zustand" width="25" height="25" color="#FF4154"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="25" height="25" color="#FF4154"/>&nbsp;
+<img src="https://github.com/vvkon13/images/blob/main/shadcnui-color.svg" title="Shadcnui" alt="Shadcnui" width="25" height="25" color="#FF4154"/>&nbsp;
+<img src="https://github.com/vvkon13/images/blob/main/reacthookform-color.svg" title="ReactHookForm" alt="ReactHookForm" width="25" height="25" color="#FF4154"/>&nbsp;
+ 
  -->
