@@ -14,7 +14,7 @@ My name is Vasiliy. I am a Fullstack Web Developer!
 ### 🧑‍🤝‍🧑 References to teamwork:
 [<img src="https://i.pinimg.com/736x/2f/0d/bc/2f0dbc75f96bda0fd1c91ba9a63385ed.jpg" height="64px"/>](https://github.com/vvkon13/better-together)
 [<img src="https://avatars.githubusercontent.com/u/155900142?s=200&v=4" height="64px"/>](https://github.com/Pet-projects-CodePET/Frontend/tree/develop)
-[<img src="https://tp.dev.iamrobot.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FowlScreenOne.22ed684d.png&w=1920&q=100" height="64px"/>](https://github.com/vvkon13/tourist-passport/tree/main)
+[<img src="https://photo.tvigle.ru/res/tvigle/video/2018/04/27/27954e48-75eb-487d-a256-c76bb5207ec4.png" height="64px"/>](https://github.com/vvkon13/tourist-passport/tree/main)
 
 
 #### :video_game: Hobbies:
