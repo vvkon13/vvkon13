@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="left"/> Hey, everybody! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRseGtoZzd2ZTFyMWhhMWphbW53OTJtM25uMjgyMXdhZHN4cGxraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/XH9wwXfUXu91wAJwN5/giphy.gif" width="100" align="right"/> 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNtY2wzMDVqYmRtazExYzRmMm5yZGVlYjJxbWsyM3Z1Mzk0Z3BycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/htSeueZxZ2RkBPrIe1/giphy.gif" width="100" align="left"> :man_technologist:  My name is Vasiliy. I am a Full Stack Web Developer from Russia
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNtY2wzMDVqYmRtazExYzRmMm5yZGVlYjJxbWsyM3Z1Mzk0Z3BycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/htSeueZxZ2RkBPrIe1/giphy.gif" width="80" align="left"> :man_technologist:  My name is Vasiliy. I am a Full Stack Web Developer from Russia
 
 
 
