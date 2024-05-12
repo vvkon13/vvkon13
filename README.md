@@ -75,12 +75,12 @@
 ### 🧑‍🤝‍🧑 References to teamwork:
 <table align="center">
   <tr>
-    <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/tourist-passport">1.Better together</a></td>
+    <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/better-together">1.Better together</a></td>
     <td valign="middle" align="center" width="30%"><a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop">2.CodePET</a></td>
     <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/tourist-passport">3.Tourist passport</a></td>
   </tr>
   <tr>
-    <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/tourist-passport"><img src="https://github.com/vvkon13/images/blob/main/bettertogether.jpg" height="100"/></a></td>
+    <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/better-together"><img src="https://github.com/vvkon13/images/blob/main/bettertogether.jpg" height="100"/></a></td>
     <td valign="middle" align="center" width="30%"><a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop"><img src="https://github.com/vvkon13/images/blob/main/codepet.png" height="100"/></a></td>
     <td valign="middle" align="center" width="30%"><a href="https://github.com/vvkon13/tourist-passport"><img src="https://photo.tvigle.ru/res/tvigle/video/2018/04/27/27954e48-75eb-487d-a256-c76bb5207ec4.png" height="100"/></a></td>
   </tr>
