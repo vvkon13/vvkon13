@@ -25,9 +25,9 @@
     <td valign="middle" align="left" width="15%"><a href="https://github.com/vvkon13/movies-explorer-frontend/tree/main">Movies explorer frontend</a></td>
     <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/movies-explorer-api"><img src="https://github.com/vvkon13/images/blob/main/camera2.png"/></a></td>
     <td valign="middle" align="left" width="15%"><a href="https://github.com/vvkon13/movies-explorer-api">Movies explorer backend</a></td>
-        <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/russian-travel"><img src="https://github.com/vvkon13/images/blob/main/Crocodile.jpg" /></a></td>
+    <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/russian-travel"><img src="https://github.com/vvkon13/images/blob/main/Crocodile.jpg" /></a></td>
     <td valign="middle" align="left" width="15%"><a href="https://github.com/vvkon13/russian-travel">Travel to Russia</a></td>
-        <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/how-to-learn"><img src="https://github.com/vvkon13/images/blob/main/book.png"/></a></td>
+    <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/how-to-learn"><img src="https://github.com/vvkon13/images/blob/main/book.png"/></a></td>
     <td valign="middle" align="left" width="15%"><a href="https://github.com/vvkon13/how-to-learn">Learn to learn</a></td>
   </tr>
   <tr>
@@ -36,22 +36,20 @@
     <td>One-page layout website</td>
     <td>One-page layout website</td>
   </tr>
-    <tr>
+  <tr>
     <td valign="top" align="left" width="15%"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="25" height="25"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
-</td>
-</td>
     <td valign="top" align="left" width="15%"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
     <td valign="top" align="left" width="15%"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="25" height="25"/><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="25" height="25"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
     <td valign="top" align="left" width="15%"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="25" height="25"/><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="25" height="25"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
   </tr>
-    <tr>
+  <tr>
     <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/react-mesto-api-full-gha"><img src="https://github.com/vvkon13/images/blob/main/cards.png"/></a></td>
     <td valign="middle" align="left" width="15%"><a href="https://github.com/vvkon13/react-mesto-api-full-gha">Place</a></td>
     <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/loko"><img src="https://github.com/vvkon13/images/blob/main/map.png"/></a></td>
     <td valign="middle" align="left" width="15%"><a href="https://github.com/vvkon13/loko">Displaying information on the map</a></td>
-        <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/todos"><img src="https://github.com/vvkon13/images/blob/main/notepad.png"/></a></td>
+    <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/todos"><img src="https://github.com/vvkon13/images/blob/main/notepad.png"/></a></td>
     <td valign="middle" align="left" width="15%"><a href="https://github.com/vvkon13/todos">ToDo List</a></td>
-        <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/test-nest-psql"><img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"/></a></td>
+    <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/test-nest-psql"><img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"/></a></td>
     <td valign="middle" align="center" width="15%"><a href="https://github.com/vvkon13/test-nest-psql">Family backend</a></td>
   </tr>
   <tr>
@@ -60,16 +58,13 @@
     <td>SPA application</td>
     <td>API</td>
   </tr>
-    <tr>
+  <tr>
     <td valign="top" align="left" width="15%"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="25" height="25"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
-</td>
-</td>
     <td valign="top" align="left" width="15%"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;</td>
     <td valign="top" align="left" width="15%"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="25" height="25"/><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
     <td valign="top" align="left" width="15%"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg"  title="NestJS" alt="NestJS" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="25" height="25"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
-  </tr>
-  
+  </tr>  
 </table>
 
 ### 🧑‍🤝‍🧑 References to teamwork:
@@ -97,4 +92,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="25" height="25"/>&nbsp;
+  
  -->
