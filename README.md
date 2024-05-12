@@ -19,6 +19,46 @@
 <img src="https://img.shields.io/badge/ubuntu-1c2f2f?style=for-the-badge&logo=ubuntu"/> <img src="https://img.shields.io/badge/Git-1c2f2f?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/Figma-1c2f2f?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/jest-1c2f2f?style=for-the-badge&logo=jest"/>     
 
 ### :factory: References to works
+<table>
+  <tr>
+    <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/movies-explorer-frontend/tree/main"><img src="http://www.takes.org/logo.png"/></a></td>
+    <td valign="middle" align="center" width="15%">Заголовок</td>
+    <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/movies-explorer-api"><img src="https://www.freepngimg.com/thumb/video_camera/86741-projector-movie-brand-accessory-camera-video.png"/></a></td>
+    <td valign="middle" align="center" width="15%">Заголовок</td>
+        <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/russian-travel"><img src="https://papik.pro/izobr/uploads/posts/2023-02/1676957661_papik-pro-p-poezd-sharzh-25.jpg" h/></a></td>
+    <td valign="middle" align="center" width="15%">Заголовок</td>
+        <td rowspan="3" valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/how-to-learn"><img src="https://down.imgspng.com/download/0720/book_PNG51114.png"/></a></td>
+    <td valign="middle" align="center" width="15%">Заголовок</td>
+  </tr>
+  <tr>
+    <td>Описание</td>
+    <td>Описание</td>
+    <td>Описание</td>
+    <td>Описание</td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></td>
+    <td>Описание</td>
+    <td>Описание</td>
+    <td>Описание</td>
+  </tr>
+  
+</table>
+
+
 [<img src="http://www.takes.org/logo.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-frontend/tree/main) [<img src="https://www.freepngimg.com/thumb/video_camera/86741-projector-movie-brand-accessory-camera-video.png" height="64px"/>](https://github.com/vvkon13/movies-explorer-api) [<img src="https://papik.pro/izobr/uploads/posts/2023-02/1676957661_papik-pro-p-poezd-sharzh-25.jpg" height="64px"/>](https://github.com/vvkon13/russian-travel) [<img src="https://down.imgspng.com/download/0720/book_PNG51114.png" height="64px"/>](https://github.com/vvkon13/how-to-learn) [<img src="https://live.staticflickr.com/8299/7787950668_9bba64c131_b.jpg" height="64px"/>](https://github.com/vvkon13/react-mesto-api-full-gha)
 
 ### 🧑‍🤝‍🧑 References to teamwork:
