@@ -1,6 +1,9 @@
 ## :bowtie:👋Hey, everybody! 
 My name is Vasiliy. I am a Fullstack Web Developer! 
-### :wrench: :hammer: :floppy_disk: Stack:   
+### :wrench: :hammer: :floppy_disk: Stack:
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/css-html-indonesiasiapkerja-ZeFG00TVXs54Pw4c8e" width="100"/>
+</div>
 
 <img src="https://img.shields.io/badge/HTML-2F4F4F?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS-2F4F4F?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/SCSS-2F4F4F?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/tailwind%20css-2F4F4F?style=for-the-badge&logo=tailwindcss"> <img src="https://img.shields.io/badge/JavaScript-2F4F4F?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/typescript-2F4F4F?style=for-the-badge&logo=typescript"> 
 
