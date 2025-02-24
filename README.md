@@ -16,7 +16,10 @@
 
 <img src="https://img.shields.io/badge/mui-1c2f2f?style=for-the-badge&logo=mui"/> <img src="https://img.shields.io/badge/shadcn-1c2f2f?style=for-the-badge&logo=shadcnui"/> <img src="https://img.shields.io/badge/bootstrap-1c2f2f?style=for-the-badge&logo=bootstrap"/> <img src="https://img.shields.io/badge/daisyui-1c2f2f?style=for-the-badge&logo=daisyui"/>  
 
-<img src="https://img.shields.io/badge/ubuntu-1c2f2f?style=for-the-badge&logo=ubuntu"/> <img src="https://img.shields.io/badge/Git-1c2f2f?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/Figma-1c2f2f?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/jest-1c2f2f?style=for-the-badge&logo=jest"/> <img src="https://img.shields.io/badge/Storybook-1c2f2f?style=for-the-badge&logo=storybook"/>    
+<img src="https://img.shields.io/badge/ubuntu-1c2f2f?style=for-the-badge&logo=ubuntu"/> <img src="https://img.shields.io/badge/Git-1c2f2f?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/Figma-1c2f2f?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/jest-1c2f2f?style=for-the-badge&logo=jest"/> <img src="https://img.shields.io/badge/Storybook-1c2f2f?style=for-the-badge&logo=storybook"/> 
+
+
+### 🪙 Commercial Solutions
 
 ### 🧑‍🤝‍🧑 Team Initiatives
 <table align="center">
