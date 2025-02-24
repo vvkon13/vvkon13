@@ -4,9 +4,9 @@
 
 
 
-### 🧰 Technology stack:
+### 🧰 Tech Stack:
 
-<img src="https://img.shields.io/badge/JavaScript-1c2f2f?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/typescript-1c2f2f?style=for-the-badge&logo=typescript">
+<img src="https://img.shields.io/badge/JavaScript-606d6d?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/typescript-1c2f2f?style=for-the-badge&logo=typescript">
 
 <img src="https://img.shields.io/badge/Node.js-1c2f2f?style=for-the-badge&logo=nodedotjs"/> <img src="https://img.shields.io/badge/express.js-1c2f2f?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/nest.js-1c2f2f?style=for-the-badge&logo=nestjs"/> <img src="https://img.shields.io/badge/postgre%20sql-1c2f2f?style=for-the-badge&logo=postgresql"/> <img src="https://img.shields.io/badge/MongoDB-1c2f2f?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/swagger-1c2f2f?style=for-the-badge&logo=swagger"/> <img src="https://img.shields.io/badge/docker-1c2f2f?style=for-the-badge&logo=docker"/>
 
