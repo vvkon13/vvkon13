@@ -65,14 +65,14 @@
     <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/test-nest-psql">8.Family backend</a></td>
   </tr>
   <tr>
-    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/movies-explorer-frontend/tree/main"><img src="https://github.com/vvkon13/images/blob/main/camera1.png" height="100"/></a></td>
-    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/movies-explorer-api"><img src="https://github.com/vvkon13/images/blob/main/camera2.png" height="100"/></a></td>
-    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/russian-travel"><img src="https://github.com/vvkon13/images/blob/main/Crocodile.jpg" height="100"/></a></td>
-    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/how-to-learn"><img src="https://github.com/vvkon13/images/blob/main/book.png" height="100"/></a></td>
-    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/react-mesto-api-full-gha"><img src="https://github.com/vvkon13/images/blob/main/cards.png" height="100"/></a></td>
-    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/loko"><img src="https://github.com/vvkon13/images/blob/main/map.png" height="100"/></a></td>
-    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/todos"><img src="https://github.com/vvkon13/images/blob/main/notepad.png" height="100"/></a></td>
-    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/test-nest-psql"><img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" height="100"/></a></td>
+    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/movies-explorer-frontend/tree/main"><img src="https://github.com/vvkon13/images/blob/main/camera1.png" width="100"/></a></td>
+    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/movies-explorer-api"><img src="https://github.com/vvkon13/images/blob/main/camera2.png" width="100"/></a></td>
+    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/russian-travel"><img src="https://github.com/vvkon13/images/blob/main/Crocodile.jpg" width="100"/></a></td>
+    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/how-to-learn"><img src="https://github.com/vvkon13/images/blob/main/book.png" width="100"/></a></td>
+    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/react-mesto-api-full-gha"><img src="https://github.com/vvkon13/images/blob/main/cards.png" width="100"/></a></td>
+    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/loko"><img src="https://github.com/vvkon13/images/blob/main/map.png" width="100"/></a></td>
+    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/todos"><img src="https://github.com/vvkon13/images/blob/main/notepad.png" width="100"/></a></td>
+    <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/test-nest-psql"><img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="100"/></a></td>
   </tr>
 
   <tr>
