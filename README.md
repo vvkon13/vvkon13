@@ -27,7 +27,7 @@
     <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/better-together">1.Better together</a></td>
     <td valign="middle" align="center" width="25%"><a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop">2.CodePET</a></td>
     <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/tourist-passport">3.Tourist passport</a></td>
-    <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/tourist-passport">4.Sagaart</a></td>
+    <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/Sagaart">4.Sagaart</a></td>
   </tr>
   <tr>
     <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/better-together"><img src="https://github.com/vvkon13/images/blob/main/bettertogether.jpg" height="100"/></a></td>
