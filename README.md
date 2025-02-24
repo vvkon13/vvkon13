@@ -100,7 +100,7 @@
 #### :video_game: Hobbies:
 <img src="https://img.shields.io/badge/codewars-b22222?style=flat&logo=codewars&logoColor=000000"/> <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode"/> <img src="https://img.shields.io/badge/Chess.com-4f7942?style=flat&logo=''&logoColor=000000"/> <img src="https://img.shields.io/badge/FIFA-101090?style=flat&logo=FIFA"/>
 #### Сontacts:
-* :telephone: telegram: [@vvkon13](https://t.me/vvkon13)
+// * :telephone: telegram: [@vvkon13](https://t.me/vvkon13)
 * :email: vvkon13@gmail.com
 <!-- 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="25" height="25"/>&nbsp;
