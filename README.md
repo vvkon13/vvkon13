@@ -26,23 +26,23 @@
 ### 🧑‍🤝‍🧑 Team Initiatives
 <table align="center">
   <tr>
-    <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/better-together">1.Better together</a></td>
-    <td valign="middle" align="center" width="25%"><a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop">2.CodePET</a></td>
-    <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/tourist-passport">3.Tourist passport</a></td>
-    <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/Sagaart">4.Sagaart</a></td>
+    <td valign="middle" align="center" width="20%"><a href="https://github.com/vvkon13/better-together">1.Better together</a></td>
+    <td valign="middle" align="center" width="20%"><a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop">2.CodePET</a></td>
+    <td valign="middle" align="center" width="20%"><a href="https://github.com/vvkon13/tourist-passport">3.Tourist passport</a></td>
+    <td valign="middle" align="center" width="20%"><a href="https://github.com/vvkon13/Sagaart">4.Sagaart</a></td>
   </tr>
   <tr>
-    <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/better-together"><img src="https://github.com/vvkon13/images/blob/main/bettertogether.jpg" height="100"/></a></td>
-    <td valign="middle" align="center" width="25%"><a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop"><img src="https://github.com/vvkon13/images/blob/main/codepet.png" height="100"/></a></td>
-    <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/tourist-passport"><img src="https://photo.tvigle.ru/res/tvigle/video/2018/04/27/27954e48-75eb-487d-a256-c76bb5207ec4.png" height="100"/></a></td>
-    <td valign="middle" align="center" width="25%"><a href="https://github.com/vvkon13/Sagaart"><img src="https://github.com/vvkon13/Sagaart/assets/117926370/ff1c2a4c-5440-4a97-be03-1f794cc9bc42" height="100"/></a></td>
+    <td valign="middle" align="center" width="20%"><a href="https://github.com/vvkon13/better-together"><img src="https://github.com/vvkon13/images/blob/main/bettertogether.jpg" height="100"/></a></td>
+    <td valign="middle" align="center" width="20%"><a href="https://github.com/Pet-projects-CodePET/Frontend/tree/develop"><img src="https://github.com/vvkon13/images/blob/main/codepet.png" height="100"/></a></td>
+    <td valign="middle" align="center" width="20%"><a href="https://github.com/vvkon13/tourist-passport"><img src="https://photo.tvigle.ru/res/tvigle/video/2018/04/27/27954e48-75eb-487d-a256-c76bb5207ec4.png" height="100"/></a></td>
+    <td valign="middle" align="center" width="20%"><a href="https://github.com/vvkon13/Sagaart"><img src="https://github.com/vvkon13/Sagaart/assets/117926370/ff1c2a4c-5440-4a97-be03-1f794cc9bc42" height="100"/></a></td>
   </tr>
 
   <tr>
-    <td valign="middle" align="center" width="25%"><a href="https://2260993-dk30711.twc1.net/">Website</a></td>
-    <td valign="middle" align="center" width="25%"></td>
-    <td valign="middle" align="center" width="25%"><a href="https://tpdeti.ru/">Website</a></td>
-    <td valign="middle" align="center" width="25%"></td>
+    <td valign="middle" align="center" width="20%"><a href="https://2260993-dk30711.twc1.net/">Website</a></td>
+    <td valign="middle" align="center" width="20%"></td>
+    <td valign="middle" align="center" width="20%"><a href="https://tpdeti.ru/">Website</a></td>
+    <td valign="middle" align="center" width="20%"></td>
   </tr>
   <tr>
    <td valign="top" align="left" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SCSS" alt="SCSS" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="25" height="25"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="25" height="25"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/></td>
