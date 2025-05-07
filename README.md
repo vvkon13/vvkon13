@@ -1,27 +1,47 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="left"/> Hey, everybody! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRseGtoZzd2ZTFyMWhhMWphbW53OTJtM25uMjgyMXdhZHN4cGxraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/XH9wwXfUXu91wAJwN5/giphy.gif" width="100" align="right"/> 
+## We have thoroughly thought out our <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRseGtoZzd2ZTFyMWhhMWphbW53OTJtM25uMjgyMXdhZHN4cGxraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/XH9wwXfUXu91wAJwN5/giphy.gif" width="100" align="right"/> 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNtY2wzMDVqYmRtazExYzRmMm5yZGVlYjJxbWsyM3Z1Mzk0Z3BycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/htSeueZxZ2RkBPrIe1/giphy.gif" width="80" align="left">   My name is Basil. I am a Full Stack Web Developer.
+[<img src="https://github.com/vvkon13/nxt/blob/main/src/app/icon0.svg" width="75px" align="left">](https://nextsteps.digital/)   My name is Basil. I am a Full Stack Web Developer.
 
+I truly believe in the **open digital world** — a space where you don’t need a fortune to bring your ideas to life.
+I'm drawn to tools and platforms that remain free when you're just starting out, and only ask for support once your project has grown and succeeded.
+If you catch the wave and thousands join your journey — it’s only fair to give back to the services that helped you get there.
 
+If you’re passionate about fast, elegant, and scalable solutions with **Next.js**, and believe that great ideas deserve a solid launchpad — drop me a message.
+
+Let’s build something meaningful together.
+
+Welcome to **NextSteps** — your reliable partner in launching modern web apps: landing pages, eCommerce, blogs, dynamic content, authentication, and SEO.
+
+* [x] Hosting? **Free on Vercel**.
+* [x] Content? Choose what fits best: **Strapi**, **MDX** with **DecapCMS** or **TinaCMS**, or even **Google Sheets** if you prefer spreadsheets.
+* [x] Need auth or real-time data? **Firebase** has us covered.
+
+Let’s create something great — together.
+
+👉 [nextsteps.site](https://nextsteps.digital/) — explore, create, and grow with us.
 
 ### 🧰 Tech Stack
+ <img src="https://img.shields.io/badge/HTML-1c2f2f?style=for-the-badge&logo=html5"/>
 
-<img src="https://img.shields.io/badge/JavaScript-1c2f2f?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/typescript-1c2f2f?style=for-the-badge&logo=typescript"> <img src="https://img.shields.io/badge/Google Apps Script-1c2f2f?style=for-the-badge&logo=googleappsscript">
+<img src="https://img.shields.io/badge/typescript-1c2f2f?style=for-the-badge&logo=typescript"> <img src="https://img.shields.io/badge/JavaScript-1c2f2f?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/Google Apps Script-1c2f2f?style=for-the-badge&logo=googleappsscript">
 
-<img src="https://img.shields.io/badge/Node.js-1c2f2f?style=for-the-badge&logo=nodedotjs"/> <img src="https://img.shields.io/badge/express.js-1c2f2f?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/nest.js-1c2f2f?style=for-the-badge&logo=nestjs"/> <img src="https://img.shields.io/badge/psql-1c2f2f?style=for-the-badge&logo=postgresql"/> <img src="https://img.shields.io/badge/MongoDB-1c2f2f?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/swagger-1c2f2f?style=for-the-badge&logo=swagger"/> <img src="https://img.shields.io/badge/docker-1c2f2f?style=for-the-badge&logo=docker"/>
 
-<img src="https://img.shields.io/badge/React-1c2f2f?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/next.js-1c2f2f?style=for-the-badge&logo=nextdotjs"/> <img src="https://img.shields.io/badge/redux%20toolkit-1c2f2f?style=for-the-badge&logo=redux"/> <img src="https://img.shields.io/badge/tanstack%20query-1c2f2f?style=for-the-badge&logo=reactquery"/> <img src="https://img.shields.io/badge/react%20hook%20form-1c2f2f?style=for-the-badge&logo=reacthookform"/>
 
-<img src="https://img.shields.io/badge/HTML-1c2f2f?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS-1c2f2f?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/SCSS-1c2f2f?style=for-the-badge&logo=sass"/> <img src="https://img.shields.io/badge/css%20modules-1c2f2f?style=for-the-badge&logo=cssmodules"> <img src="https://img.shields.io/badge/tailwind%20css-1c2f2f?style=for-the-badge&logo=tailwindcss">
+<img src="https://img.shields.io/badge/next.js-1c2f2f?style=for-the-badge&logo=nextdotjs"/> <img src="https://img.shields.io/badge/React-1c2f2f?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/redux%20toolkit-1c2f2f?style=for-the-badge&logo=redux"/> <img src="https://img.shields.io/badge/tanstack%20query-1c2f2f?style=for-the-badge&logo=reactquery"/> <img src="https://img.shields.io/badge/react%20hook%20form-1c2f2f?style=for-the-badge&logo=reacthookform"/> 
 
-<img src="https://img.shields.io/badge/mui-1c2f2f?style=for-the-badge&logo=mui"/> <img src="https://img.shields.io/badge/shadcn-1c2f2f?style=for-the-badge&logo=shadcnui"/> <img src="https://img.shields.io/badge/bootstrap-1c2f2f?style=for-the-badge&logo=bootstrap"/> <img src="https://img.shields.io/badge/daisyui-1c2f2f?style=for-the-badge&logo=daisyui"/> 
+<img src="https://img.shields.io/badge/tailwind%20css-1c2f2f?style=for-the-badge&logo=tailwindcss"> <img src="https://img.shields.io/badge/css%20modules-1c2f2f?style=for-the-badge&logo=cssmodules"> <img src="https://img.shields.io/badge/SCSS-1c2f2f?style=for-the-badge&logo=sass"/>  <img src="https://img.shields.io/badge/CSS-1c2f2f?style=for-the-badge&logo=css3"/> 
 
-<img src="https://img.shields.io/badge/vercel-1c2f2f?style=for-the-badge&logo=vercel"/> <img src="https://img.shields.io/badge/render-1c2f2f?style=for-the-badge&logo=render"/> <img src="https://img.shields.io/badge/Firebase-1c2f2f?style=for-the-badge&logo=firebase&logoColor=DD2C00"/> <img src="https://img.shields.io/badge/cloudinary-1c2f2f?style=for-the-badge&logo=cloudinary&logoColor=3448C5"/> <img src="https://img.shields.io/badge/google sheets-1c2f2f?style=for-the-badge&logo=googlesheets"/> 
+<img src="https://img.shields.io/badge/daisyui-1c2f2f?style=for-the-badge&logo=daisyui"/> <img src="https://img.shields.io/badge/mui-1c2f2f?style=for-the-badge&logo=mui"/> <img src="https://img.shields.io/badge/shadcn-1c2f2f?style=for-the-badge&logo=shadcnui"/> <img src="https://img.shields.io/badge/bootstrap-1c2f2f?style=for-the-badge&logo=bootstrap"/>
+
+<img src="https://img.shields.io/badge/vercel-1c2f2f?style=for-the-badge&logo=vercel"/> <img src="https://img.shields.io/badge/netlify-1c2f2f?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/> <img src="https://img.shields.io/badge/render-1c2f2f?style=for-the-badge&logo=render"/>
+
+<img src="https://img.shields.io/badge/strapi-1c2f2f?style=for-the-badge&logo=strapi&logoColor=#4945FF"/> <img src="https://img.shields.io/badge/decap%20cms-1c2f2f?style=for-the-badge&logo=decapcms&logoColor=#FF0082"/>  <img src="https://img.shields.io/badge/tina-1c2f2f?style=for-the-badge&logo=tina&logoColor=#EC4815"/> <img src="https://img.shields.io/badge/google sheets-1c2f2f?style=for-the-badge&logo=googlesheets"/> <img src="https://img.shields.io/badge/cloudinary-1c2f2f?style=for-the-badge&logo=cloudinary&logoColor=3448C5"/> 
+
+<img src="https://img.shields.io/badge/Firebase-1c2f2f?style=for-the-badge&logo=firebase&logoColor=DD2C00"/> <img src="https://img.shields.io/badge/MongoDB-1c2f2f?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/psql-1c2f2f?style=for-the-badge&logo=postgresql"/> 
+
+<img src="https://img.shields.io/badge/Node.js-1c2f2f?style=for-the-badge&logo=nodedotjs"/> <img src="https://img.shields.io/badge/express.js-1c2f2f?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/nest.js-1c2f2f?style=for-the-badge&logo=nestjs"/> <img src="https://img.shields.io/badge/swagger-1c2f2f?style=for-the-badge&logo=swagger"/> <img src="https://img.shields.io/badge/docker-1c2f2f?style=for-the-badge&logo=docker"/>
 
 <img src="https://img.shields.io/badge/ubuntu-1c2f2f?style=for-the-badge&logo=ubuntu"/> <img src="https://img.shields.io/badge/Git-1c2f2f?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/Figma-1c2f2f?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/jest-1c2f2f?style=for-the-badge&logo=jest"/> <img src="https://img.shields.io/badge/Storybook-1c2f2f?style=for-the-badge&logo=storybook"/> 
-
-
-### 🪙 Commercial Solutions
 
 ### 🧑‍🤝‍🧑 Team Initiatives
 <table align="center">
