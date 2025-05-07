@@ -20,7 +20,7 @@ Let’s create something great — together.
 
 👉 [nextsteps.site](https://nextsteps.digital/) — explore, create, and grow with us.
 
-### 🧰 Tech Stack
+### Tech Stack
  <img src="https://img.shields.io/badge/HTML-1c2f2f?style=for-the-badge&logo=html5"/>
 
 <img src="https://img.shields.io/badge/typescript-1c2f2f?style=for-the-badge&logo=typescript"> <img src="https://img.shields.io/badge/JavaScript-1c2f2f?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/Google Apps Script-1c2f2f?style=for-the-badge&logo=googleappsscript">
@@ -43,7 +43,7 @@ Let’s create something great — together.
 
 <img src="https://img.shields.io/badge/ubuntu-1c2f2f?style=for-the-badge&logo=ubuntu"/> <img src="https://img.shields.io/badge/Git-1c2f2f?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/Figma-1c2f2f?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/jest-1c2f2f?style=for-the-badge&logo=jest"/> <img src="https://img.shields.io/badge/Storybook-1c2f2f?style=for-the-badge&logo=storybook"/> 
 
-### 🧑‍🤝‍🧑 Team Initiatives
+### Team Initiatives
 <table align="center">
   <tr>
     <td valign="middle" align="center" width="20%"><a href="https://github.com/vvkon13/better-together">1.Better together</a></td>
@@ -72,7 +72,7 @@ Let’s create something great — together.
   </tr>  
 </table>
 
-### 🪕 Creative Experiments
+### Creative Experiments
 <table align="center">
   <tr>
     <td valign="middle" align="center" width="10%"><a href="https://github.com/vvkon13/movies-explorer-frontend/tree/main">1.Movies explorer frontend</a></td>
@@ -119,7 +119,7 @@ Let’s create something great — together.
 
 
 
-#### :video_game: Hobbies:
+#### Hobbies:
 <img src="https://img.shields.io/badge/codewars-b22222?style=flat&logo=codewars&logoColor=000000"/> <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode"/> <img src="https://img.shields.io/badge/Chess.com-4f7942?style=flat&logo=''&logoColor=000000"/> <img src="https://img.shields.io/badge/FIFA-101090?style=flat&logo=FIFA"/>
 #### Сontacts:
 <!--  * :telephone: telegram: [@vvkon13](https://t.me/vvkon13)-->
