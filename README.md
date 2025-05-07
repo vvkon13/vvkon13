@@ -1,4 +1,4 @@
-## We have thoroughly thought out our <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRseGtoZzd2ZTFyMWhhMWphbW53OTJtM25uMjgyMXdhZHN4cGxraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/XH9wwXfUXu91wAJwN5/giphy.gif" width="100" align="right"/> 
+## We have thoroughly thought out our next steps <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRseGtoZzd2ZTFyMWhhMWphbW53OTJtM25uMjgyMXdhZHN4cGxraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/XH9wwXfUXu91wAJwN5/giphy.gif" width="100" align="right"/> 
 
 [<img src="https://github.com/vvkon13/nxt/blob/main/src/app/icon0.svg" width="75px" align="left">](https://nextsteps.digital/)   My name is Basil. I am a Full Stack Web Developer.
 
